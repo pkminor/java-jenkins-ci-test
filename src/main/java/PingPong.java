@@ -8,7 +8,7 @@ public class PingPong {
     public static void main(String[] args) {
         List<Integer> rs = new ArrayList<Integer>();
 
-        rs.add(1);
+        rs.adde(1);
         System.out.println(runPingPong(rs));
     }
 
